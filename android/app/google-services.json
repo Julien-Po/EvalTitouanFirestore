@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1011720855333",
+    "project_id": "titouandatabase",
+    "storage_bucket": "titouandatabase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1011720855333:android:07b940ad9e72ee5e54c4cc",
+        "android_client_info": {
+          "package_name": "com.example.evalTitouan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAftIfkjrwtyT-COG1XiTU9NnjcI781Ypw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
